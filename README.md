@@ -1,5 +1,5 @@
 # hazeRemoval
-
+  This is an C++ implementation of the haze removal algorithm in paper "Single Image Haze Removal Using Dark Channel Prior" by Kaiming He.
 ## Dependencies
 * OpenCV 2.4: follow the instructions on http://opencv.org/ or install
   via

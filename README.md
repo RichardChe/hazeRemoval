@@ -27,4 +27,4 @@
 
         ./hazeRemovalBin ../example_img/river.png
 
-and you can see the original image and the corresponding result.
+you can use any image in example_img/, and you can see the original image and the corresponding result.
